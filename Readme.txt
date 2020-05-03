@@ -13,3 +13,5 @@ In this project I used face_recognition to find faces and compare them the resul
 I used openCV to draw the rectangles and put text. 
 
 Try running this using GPU as in CPU it might be slow. 
+
+Please create your own folder for named faces and inside that folder create another folder named the person you what to detect and the images of that person inside that folder. One can pickle.save the model's encoding for later use in real life.
